@@ -4,7 +4,6 @@ import com.jongkeun.backend.dto.TodoDto;
 import com.jongkeun.backend.dto.TodoResponseDto;
 import com.jongkeun.backend.dto.TodoStatsDto;
 import com.jongkeun.backend.dto.TodoUpdateDto;
-import com.jongkeun.backend.repository.TodoRepository;
 import com.jongkeun.backend.service.TodoService;
 import jakarta.validation.Valid;
 import lombok.RequiredArgsConstructor;
